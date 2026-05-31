@@ -206,7 +206,7 @@ For any queries regarding this project:
 Intern Name: [M AHMED ALI ]
 Email: [muhammadahmedali607@gmail.com ]
 LinkedIn: [ muhammad-ahmed-ali-123125406]
-GitHub: []
+GitHub: [https://github.com/mrahmed121]
 <div align="center">
 ⭐ DecodeLabs AI Engineering Internship — Week 2 ⭐
 Submitted as part of the official internship program.

@@ -205,7 +205,7 @@ Ronald Fisher — Original collector and publisher of the Iris dataset (1936)
 For any queries regarding this project:
 Intern Name: [M AHMED ALI ]
 Email: [muhammadahmedali607@gmail.com ]
-LinkedIn: [ muhammad-ahmed-ali-123125406]
+LinkedIn: [  www.linkedin.com/in/muhammad-ahmed-ali-123125406]
 GitHub: [https://github.com/mrahmed121]
 <div align="center">
 ⭐ DecodeLabs AI Engineering Internship — Week 2 ⭐
